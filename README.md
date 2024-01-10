@@ -1,2 +1,2 @@
-# l
-learning
+# data
+scripts for violentmonkey/tampermonkey
